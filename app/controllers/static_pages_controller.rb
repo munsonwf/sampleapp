@@ -8,6 +8,6 @@ class StaticPagesController < ApplicationController
   def about
   end 
 
-  def contac
+  def contact
   end 
 end
